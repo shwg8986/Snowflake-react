@@ -1,4 +1,5 @@
 # SNOWFLAKE の練習
+疑似データを用いた可視化
 
 #### snowflake → Express（バックエンド）→ React（フロントエンド）へ表示
 
