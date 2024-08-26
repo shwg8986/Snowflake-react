@@ -34,7 +34,11 @@ node server.js
 npm run start
 ```
 
+<br>
+
 <img width="1254" alt="スクリーンショット 2024-08-26 21 15 15" src="https://github.com/user-attachments/assets/d50d9233-54f8-4cd1-ab36-975816267fc8">
+
+<br>
 
 ＜次にやりたいこと＞
 
