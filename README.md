@@ -2,7 +2,7 @@
 ### 疑似データを用いた可視化
 #### snowflake → Express（バックエンド）→ React（フロントエンド）へ表示
 
-実行手順
+＜実行手順＞
 
 1. snowflake のワークシートで snowflake.sql の中身をコピーして実行
 
