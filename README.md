@@ -37,4 +37,5 @@ npm run start
 <img width="1254" alt="スクリーンショット 2024-08-26 21 15 15" src="https://github.com/user-attachments/assets/d50d9233-54f8-4cd1-ab36-975816267fc8">
 
 ＜次にやりたいこと＞
-snowflakeのデータベースに対して定期的に新規データを自動追加する
+
+- snowflakeのデータベースに対して定期的に新規データを自動追加する
