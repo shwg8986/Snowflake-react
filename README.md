@@ -29,6 +29,9 @@ node server.js
 
 4. ルートで以下を実行
 
+
 ```
 npm run start
 ```
+
+<img width="1254" alt="スクリーンショット 2024-08-26 21 15 15" src="https://github.com/user-attachments/assets/d50d9233-54f8-4cd1-ab36-975816267fc8">
