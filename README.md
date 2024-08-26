@@ -1,0 +1,34 @@
+# SNOWFLAKE の練習
+
+#### snowflake → Express（バックエンド）→ React（フロントエンド）へ表示
+
+実行手順
+
+1. snowflake のワークシートで snowflake.sql の中身をコピーして実行
+
+<br>
+
+2. /server ディレクトリに以下の内容を含む.env ファイルの作成
+
+```
+SNOWFLAKE_ACCOUNT=<組織-アカウント名>
+SNOWFLAKE_USERNAME=<snowflakeウェブインタフェースにログインする時に用いるユーザーネーム>
+SNOWFLAKE_PASSWORD=<snowflakeウェブインタフェースにログインする時に用いるパスワード>
+SNOWFLAKE_WAREHOUSE=<snowflakeウェブインタフェース上で自由に作成したウェアハウスの名前>
+SNOWFLAKE_DATABASE=<データベースの名前。snowflake.sqlの中身をそのまま使うならiot_data>
+SNOWFLAKE_SCHEMA=<スキーマの名前。デフォルトならpublic>
+```
+
+3. /server ディレクトリで以下を実行
+
+```
+node server.js
+```
+
+<br>
+
+4. ルートで以下を実行
+
+```
+npm run start
+```
