@@ -36,7 +36,7 @@ npm run start
 
 <br>
 
-<img width="1254" alt="スクリーンショット 2024-08-26 21 15 15" src="https://github.com/user-attachments/assets/d50d9233-54f8-4cd1-ab36-975816267fc8">
+![スクリーンショット 2024-08-27 9 48 57](https://github.com/user-attachments/assets/e7315a3d-e728-4346-8f47-03224c853609)
 
 <br>
 
